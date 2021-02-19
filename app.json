@@ -1,0 +1,17 @@
+{
+  "name": "Cafit",
+  "displayName": "Cafit",
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "orientation": "portrait",
+  "expo": {
+    "name": "Cafit",
+    "slug": "Cafit",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
